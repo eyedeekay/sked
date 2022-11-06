@@ -1,0 +1,14 @@
+{
+  "RunDir": "~/sked-app-dir/",
+  "Commands": [
+    {
+      "Command": "./mirror.sh",
+      "Args": []
+    },
+    {
+      "Command": "./pregenerate.sh",
+      "Args": []
+    }
+  ],
+  "IntervalMinutes": 15
+}
